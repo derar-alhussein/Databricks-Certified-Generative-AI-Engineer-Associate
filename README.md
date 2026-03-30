@@ -1,0 +1,1 @@
+# Databricks-Certified-Generative-AI-Engineer-Associate
